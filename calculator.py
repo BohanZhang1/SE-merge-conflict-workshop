@@ -1,8 +1,6 @@
 """
 Simple Calculator Application
 A basic calculator that performs arithmetic operations.
-
-
 """
 
 
